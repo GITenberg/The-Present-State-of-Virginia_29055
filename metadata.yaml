@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '33664'
     url: http://www.gutenberg.org/2009/agents/33664
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/29055#The-Present-State-of-Virginia
 gutenberg_issued: '2009-06-06'
 gutenberg_type: Text
 identifiers:
